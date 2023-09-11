@@ -14,6 +14,10 @@ header{
 }
 
 /* title and author style */
+#title{
+    font-size: 35px;
+}
+
 .written-by {
     color: grey;
     font-size: 20px;
@@ -26,3 +30,4 @@ header{
 #publishing-date {
     color: grey;
 }
+
