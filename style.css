@@ -42,11 +42,16 @@ header{
 
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 
 th{
     width: calc(100% / 3);
-    background-color: rgb(0, 213, 255);
+    background-color: rgb(0, 149, 255);
+    color: white;
 }
 
+tr:nth-child(odd) {
+    background-color: lightblue
+}
 
