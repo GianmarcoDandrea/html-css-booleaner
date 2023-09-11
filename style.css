@@ -1,3 +1,4 @@
+/* header style */
 header{
     height: 170px;
     background-image: url(img/pattern.png);
@@ -10,4 +11,18 @@ header{
     position: absolute;
     left: 0;
     bottom: 0;
+}
+
+/* title and author style */
+.written-by {
+    color: grey;
+    font-size: 20px;
+}
+
+#author {
+    color: rgb(0, 213, 255)
+}
+
+#publishing-date {
+    color: grey;
 }
