@@ -1,9 +1,13 @@
 header{
     height: 170px;
     background-image: url(img/pattern.png);
-    background-color: aqua;
+    background-color: rgb(0, 191, 255);
+    position: relative;
 }
 
 #logo {
     width: 300px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
