@@ -31,7 +31,22 @@ header{
     color: grey;
 }
 
-#main-article {
-    font-size: 20px;
+.photos-description{
+    font-size: 15px;
 }
+
+/* main article style */
+#main-article {
+    font-size: 18px;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    width: calc(100% / 3);
+    background-color: rgb(0, 213, 255);
+}
+
 
