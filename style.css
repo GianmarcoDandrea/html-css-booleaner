@@ -59,4 +59,22 @@ tr:nth-child(odd) {
 
 #interess{
     color: grey;
+    font-size: 25px;
+}
+
+.fav{
+    width: 250px;
+    height: 175px;
+    color: white;
+}
+
+.video1{
+    background-image: url(img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.video2{
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
